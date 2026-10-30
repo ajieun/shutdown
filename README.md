@@ -97,7 +97,7 @@ python3 shutdown_timer.py    # macOS
 ## 项目结构
 
 ```
-shutdown_timer.py   主程序（单文件，约 2000 行）
+shutdown_timer.py   主程序（单文件，约 1800 行）
 run.bat             Windows 启动器
 run.command         macOS 启动器
 README.md           本文件
